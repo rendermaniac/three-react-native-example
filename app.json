@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "three_example",
+    "slug": "three_example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "three_example"
+}
